@@ -5,12 +5,12 @@
 # Source0 file verified with key 0x58D0EE648A48B3BB (faure@kde.org)
 #
 Name     : kcompletion
-Version  : 5.69.0
-Release  : 28
-URL      : https://download.kde.org/stable/frameworks/5.69/kcompletion-5.69.0.tar.xz
-Source0  : https://download.kde.org/stable/frameworks/5.69/kcompletion-5.69.0.tar.xz
-Source1  : https://download.kde.org/stable/frameworks/5.69/kcompletion-5.69.0.tar.xz.sig
-Summary  : Text completion helpers and widgets
+Version  : 5.70.0
+Release  : 29
+URL      : https://download.kde.org/stable/frameworks/5.70/kcompletion-5.70.0.tar.xz
+Source0  : https://download.kde.org/stable/frameworks/5.70/kcompletion-5.70.0.tar.xz
+Source1  : https://download.kde.org/stable/frameworks/5.70/kcompletion-5.70.0.tar.xz.sig
+Summary  : No detailed summary available
 Group    : Development/Tools
 License  : LGPL-2.1
 Requires: kcompletion-data = %{version}-%{release}
@@ -18,6 +18,10 @@ Requires: kcompletion-lib = %{version}-%{release}
 Requires: kcompletion-license = %{version}-%{release}
 BuildRequires : buildreq-cmake
 BuildRequires : buildreq-kde
+BuildRequires : extra-cmake-modules-data
+BuildRequires : kconfig-dev
+BuildRequires : kwidgetsaddons-dev
+BuildRequires : qtbase-dev
 BuildRequires : qtbase-dev mesa-dev
 
 %description
@@ -38,7 +42,6 @@ Group: Development
 Requires: kcompletion-lib = %{version}-%{release}
 Requires: kcompletion-data = %{version}-%{release}
 Provides: kcompletion-devel = %{version}-%{release}
-Requires: kcompletion = %{version}-%{release}
 Requires: kcompletion = %{version}-%{release}
 
 %description dev
@@ -64,35 +67,34 @@ license components for the kcompletion package.
 
 
 %prep
-%setup -q -n kcompletion-5.69.0
-cd %{_builddir}/kcompletion-5.69.0
+%setup -q -n kcompletion-5.70.0
+cd %{_builddir}/kcompletion-5.70.0
 
 %build
 export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1586892644
+export SOURCE_DATE_EPOCH=1589216983
 mkdir -p clr-build
 pushd clr-build
-# -Werror is for werrorists
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
 export NM=gcc-nm
 export CFLAGS="$CFLAGS -O3 -ffat-lto-objects -flto=4 "
-export FCFLAGS="$CFLAGS -O3 -ffat-lto-objects -flto=4 "
-export FFLAGS="$CFLAGS -O3 -ffat-lto-objects -flto=4 "
+export FCFLAGS="$FFLAGS -O3 -ffat-lto-objects -flto=4 "
+export FFLAGS="$FFLAGS -O3 -ffat-lto-objects -flto=4 "
 export CXXFLAGS="$CXXFLAGS -O3 -ffat-lto-objects -flto=4 "
 %cmake ..
 make  %{?_smp_mflags}  VERBOSE=1
 popd
 
 %install
-export SOURCE_DATE_EPOCH=1586892644
+export SOURCE_DATE_EPOCH=1589216983
 rm -rf %{buildroot}
 mkdir -p %{buildroot}/usr/share/package-licenses/kcompletion
-cp %{_builddir}/kcompletion-5.69.0/COPYING.LIB %{buildroot}/usr/share/package-licenses/kcompletion/9a1929f4700d2407c70b507b3b2aaf6226a9543c
+cp %{_builddir}/kcompletion-5.70.0/COPYING.LIB %{buildroot}/usr/share/package-licenses/kcompletion/9a1929f4700d2407c70b507b3b2aaf6226a9543c
 pushd clr-build
 %make_install
 popd
@@ -234,7 +236,7 @@ popd
 %files lib
 %defattr(-,root,root,-)
 /usr/lib64/libKF5Completion.so.5
-/usr/lib64/libKF5Completion.so.5.69.0
+/usr/lib64/libKF5Completion.so.5.70.0
 /usr/lib64/qt5/plugins/designer/kcompletion5widgets.so
 
 %files license
