@@ -1,5 +1,5 @@
 PKG_NAME := kcompletion
-URL = https://download.kde.org/stable/frameworks/5.89/kcompletion-5.89.0.tar.xz
+URL = https://download.kde.org/stable/frameworks/5.90/kcompletion-5.90.0.tar.xz
 ARCHIVES = 
 
 include ../common/Makefile.common
