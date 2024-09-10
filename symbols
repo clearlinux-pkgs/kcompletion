@@ -1,261 +1,261 @@
-libKF6Completion.so.6:_ZN11KCompletion10allMatchesERK7QString
-libKF6Completion.so.6:_ZN11KCompletion10allMatchesEv
-libKF6Completion.so.6:_ZN11KCompletion10removeItemERK7QString
-libKF6Completion.so.6:_ZN11KCompletion11insertItemsERK5QListI7QStringE
-libKF6Completion.so.6:_ZN11KCompletion11qt_metacallEN11QMetaObject4CallEiPPv
-libKF6Completion.so.6:_ZN11KCompletion11qt_metacastEPKc
-libKF6Completion.so.6:_ZN11KCompletion13previousMatchEv
-libKF6Completion.so.6:_ZN11KCompletion13setIgnoreCaseEb
-libKF6Completion.so.6:_ZN11KCompletion14makeCompletionERK7QString
-libKF6Completion.so.6:_ZN11KCompletion15multipleMatchesEv
-libKF6Completion.so.6:_ZN11KCompletion16setSoundsEnabledEb
-libKF6Completion.so.6:_ZN11KCompletion17setCompletionModeENS_14CompletionModeE
-libKF6Completion.so.6:_ZN11KCompletion17setSorterFunctionESt8functionIFvR5QListI7QStringEEE
-libKF6Completion.so.6:_ZN11KCompletion18allWeightedMatchesERK7QString
-libKF6Completion.so.6:_ZN11KCompletion18allWeightedMatchesEv
-libKF6Completion.so.6:_ZN11KCompletion20setShouldAutoSuggestEb
-libKF6Completion.so.6:_ZN11KCompletion5clearEv
-libKF6Completion.so.6:_ZN11KCompletion5matchERK7QString
-libKF6Completion.so.6:_ZN11KCompletion7addItemERK7QString
-libKF6Completion.so.6:_ZN11KCompletion7addItemERK7QStringj
-libKF6Completion.so.6:_ZN11KCompletion7matchesERK5QListI7QStringE
-libKF6Completion.so.6:_ZN11KCompletion8setItemsERK5QListI7QStringE
-libKF6Completion.so.6:_ZN11KCompletion8setOrderENS_9CompOrderE
-libKF6Completion.so.6:_ZN11KCompletion9nextMatchEv
-libKF6Completion.so.6:_ZN11KCompletionC1Ev
-libKF6Completion.so.6:_ZN11KCompletionC2Ev
-libKF6Completion.so.6:_ZN11KCompletionD0Ev
-libKF6Completion.so.6:_ZN11KCompletionD1Ev
-libKF6Completion.so.6:_ZN11KCompletionD2Ev
-libKF6Completion.so.6:_ZN14KCompletionBox10setVisibleEb
-libKF6Completion.so.6:_ZN14KCompletionBox11eventFilterEP7QObjectP6QEvent
-libKF6Completion.so.6:_ZN14KCompletionBox11insertItemsERK5QListI7QStringEi
-libKF6Completion.so.6:_ZN14KCompletionBox11qt_metacallEN11QMetaObject4CallEiPPv
-libKF6Completion.so.6:_ZN14KCompletionBox11qt_metacastEPKc
-libKF6Completion.so.6:_ZN14KCompletionBox13slotActivatedEP15QListWidgetItem
-libKF6Completion.so.6:_ZN14KCompletionBox13textActivatedERK7QString
-libKF6Completion.so.6:_ZN14KCompletionBox13userCancelledERK7QString
-libKF6Completion.so.6:_ZN14KCompletionBox14setTabHandlingEb
-libKF6Completion.so.6:_ZN14KCompletionBox16setCancelledTextERK7QString
-libKF6Completion.so.6:_ZN14KCompletionBox19resizeAndRepositionEv
-libKF6Completion.so.6:_ZN14KCompletionBox19setActivateOnSelectEb
-libKF6Completion.so.6:_ZN14KCompletionBox2upEv
-libKF6Completion.so.6:_ZN14KCompletionBox3endEv
-libKF6Completion.so.6:_ZN14KCompletionBox4downEv
-libKF6Completion.so.6:_ZN14KCompletionBox4homeEv
-libKF6Completion.so.6:_ZN14KCompletionBox5popupEv
-libKF6Completion.so.6:_ZN14KCompletionBox6pageUpEv
-libKF6Completion.so.6:_ZN14KCompletionBox8pageDownEv
-libKF6Completion.so.6:_ZN14KCompletionBox8setItemsERK5QListI7QStringE
-libKF6Completion.so.6:_ZN14KCompletionBoxC1EP7QWidget
-libKF6Completion.so.6:_ZN14KCompletionBoxC2EP7QWidget
-libKF6Completion.so.6:_ZN14KCompletionBoxD0Ev
-libKF6Completion.so.6:_ZN14KCompletionBoxD1Ev
-libKF6Completion.so.6:_ZN14KCompletionBoxD2Ev
-libKF6Completion.so.6:_ZN15KCompletionBase11setDelegateEPS_
-libKF6Completion.so.6:_ZN15KCompletionBase12virtual_hookEiPv
-libKF6Completion.so.6:_ZN15KCompletionBase13setKeyBindingENS_14KeyBindingTypeERK5QListI12QKeySequenceE
-libKF6Completion.so.6:_ZN15KCompletionBase14setEmitSignalsEb
-libKF6Completion.so.6:_ZN15KCompletionBase16completionObjectEb
-libKF6Completion.so.6:_ZN15KCompletionBase16setEnableSignalsEb
-libKF6Completion.so.6:_ZN15KCompletionBase16setHandleSignalsEb
-libKF6Completion.so.6:_ZN15KCompletionBase16setKeyBindingMapE4QMapINS_14KeyBindingTypeE5QListI12QKeySequenceEE
-libKF6Completion.so.6:_ZN15KCompletionBase17setCompletionModeEN11KCompletion14CompletionModeE
-libKF6Completion.so.6:_ZN15KCompletionBase19setCompletionObjectEP11KCompletionb
-libKF6Completion.so.6:_ZN15KCompletionBase20useGlobalKeyBindingsEv
-libKF6Completion.so.6:_ZN15KCompletionBase29setAutoDeleteCompletionObjectEb
-libKF6Completion.so.6:_ZN15KCompletionBaseC1Ev
-libKF6Completion.so.6:_ZN15KCompletionBaseC2Ev
-libKF6Completion.so.6:_ZN15KCompletionBaseD0Ev
-libKF6Completion.so.6:_ZN15KCompletionBaseD1Ev
-libKF6Completion.so.6:_ZN15KCompletionBaseD2Ev
-libKF6Completion.so.6:_ZN15KEmailValidator11qt_metacallEN11QMetaObject4CallEiPPv
-libKF6Completion.so.6:_ZN15KEmailValidator11qt_metacastEPKc
-libKF6Completion.so.6:_ZN15KEmailValidatorC1EP7QObject
-libKF6Completion.so.6:_ZN15KEmailValidatorC2EP7QObject
-libKF6Completion.so.6:_ZN15KEmailValidatorD0Ev
-libKF6Completion.so.6:_ZN15KEmailValidatorD1Ev
-libKF6Completion.so.6:_ZN15KEmailValidatorD2Ev
-libKF6Completion.so.6:_ZN16KHistoryComboBox10wheelEventEP11QWheelEvent
-libKF6Completion.so.6:_ZN16KHistoryComboBox11insertItemsERK5QListI7QStringE
-libKF6Completion.so.6:_ZN16KHistoryComboBox11qt_metacallEN11QMetaObject4CallEiPPv
-libKF6Completion.so.6:_ZN16KHistoryComboBox11qt_metacastEPKc
-libKF6Completion.so.6:_ZN16KHistoryComboBox12addToHistoryERK7QString
-libKF6Completion.so.6:_ZN16KHistoryComboBox12clearHistoryEv
-libKF6Completion.so.6:_ZN16KHistoryComboBox13keyPressEventEP9QKeyEvent
-libKF6Completion.so.6:_ZN16KHistoryComboBox15setHistoryItemsERK5QListI7QStringE
-libKF6Completion.so.6:_ZN16KHistoryComboBox15setHistoryItemsERK5QListI7QStringEb
-libKF6Completion.so.6:_ZN16KHistoryComboBox15setIconProviderESt8functionIF5QIconRK7QStringEE
-libKF6Completion.so.6:_ZN16KHistoryComboBox17removeFromHistoryERK7QString
-libKF6Completion.so.6:_ZN16KHistoryComboBox5resetEv
-libKF6Completion.so.6:_ZN16KHistoryComboBox7clearedEv
-libKF6Completion.so.6:_ZN16KHistoryComboBoxC1EP7QWidget
-libKF6Completion.so.6:_ZN16KHistoryComboBoxC1EbP7QWidget
-libKF6Completion.so.6:_ZN16KHistoryComboBoxC2EP7QWidget
-libKF6Completion.so.6:_ZN16KHistoryComboBoxC2EbP7QWidget
-libKF6Completion.so.6:_ZN16KHistoryComboBoxD0Ev
-libKF6Completion.so.6:_ZN16KHistoryComboBoxD1Ev
-libKF6Completion.so.6:_ZN16KHistoryComboBoxD2Ev
-libKF6Completion.so.6:_ZN18KCompletionMatches16removeDuplicatesEv
-libKF6Completion.so.6:_ZN18KCompletionMatchesC1ERK25KCompletionMatchesWrapper
-libKF6Completion.so.6:_ZN18KCompletionMatchesC1ERKS_
-libKF6Completion.so.6:_ZN18KCompletionMatchesC1Eb
-libKF6Completion.so.6:_ZN18KCompletionMatchesC2ERK25KCompletionMatchesWrapper
-libKF6Completion.so.6:_ZN18KCompletionMatchesC2ERKS_
-libKF6Completion.so.6:_ZN18KCompletionMatchesC2Eb
-libKF6Completion.so.6:_ZN18KCompletionMatchesD1Ev
-libKF6Completion.so.6:_ZN18KCompletionMatchesD2Ev
-libKF6Completion.so.6:_ZN18KCompletionMatchesaSERKS_
-libKF6Completion.so.6:_ZN9KComboBox10completionERK7QString
-libKF6Completion.so.6:_ZN9KComboBox10rotateTextEN15KCompletionBase14KeyBindingTypeE
-libKF6Completion.so.6:_ZN9KComboBox10setEditUrlERK4QUrl
-libKF6Completion.so.6:_ZN9KComboBox11qt_metacallEN11QMetaObject4CallEiPPv
-libKF6Completion.so.6:_ZN9KComboBox11qt_metacastEPKc
-libKF6Completion.so.6:_ZN9KComboBox11setEditableEb
-libKF6Completion.so.6:_ZN9KComboBox11setLineEditEP9QLineEdit
-libKF6Completion.so.6:_ZN9KComboBox12textRotationEN15KCompletionBase14KeyBindingTypeE
-libKF6Completion.so.6:_ZN9KComboBox13completionBoxEb
-libKF6Completion.so.6:_ZN9KComboBox13returnPressedERK7QString
-libKF6Completion.so.6:_ZN9KComboBox14makeCompletionERK7QString
-libKF6Completion.so.6:_ZN9KComboBox14setCurrentItemERK7QStringbi
-libKF6Completion.so.6:_ZN9KComboBox16setCompletedTextERK7QString
-libKF6Completion.so.6:_ZN9KComboBox16setCompletedTextERK7QStringb
-libKF6Completion.so.6:_ZN9KComboBox16setTrapReturnKeyEb
-libKF6Completion.so.6:_ZN9KComboBox17setAutoCompletionEb
-libKF6Completion.so.6:_ZN9KComboBox17setCompletedItemsERK5QListI7QStringEb
-libKF6Completion.so.6:_ZN9KComboBox19substringCompletionERK7QString
-libKF6Completion.so.6:_ZN9KComboBox21completionModeChangedEN11KCompletion14CompletionModeE
-libKF6Completion.so.6:_ZN9KComboBox22aboutToShowContextMenuEP5QMenu
-libKF6Completion.so.6:_ZN9KComboBox6addUrlERK4QUrl
-libKF6Completion.so.6:_ZN9KComboBox6addUrlERK5QIconRK4QUrl
-libKF6Completion.so.6:_ZN9KComboBox9changeUrlEiRK4QUrl
-libKF6Completion.so.6:_ZN9KComboBox9changeUrlEiRK5QIconRK4QUrl
-libKF6Completion.so.6:_ZN9KComboBox9insertUrlEiRK4QUrl
-libKF6Completion.so.6:_ZN9KComboBox9insertUrlEiRK5QIconRK4QUrl
-libKF6Completion.so.6:_ZN9KComboBoxC1EP7QWidget
-libKF6Completion.so.6:_ZN9KComboBoxC1EbP7QWidget
-libKF6Completion.so.6:_ZN9KComboBoxC2EP7QWidget
-libKF6Completion.so.6:_ZN9KComboBoxC2EbP7QWidget
-libKF6Completion.so.6:_ZN9KComboBoxD0Ev
-libKF6Completion.so.6:_ZN9KComboBoxD1Ev
-libKF6Completion.so.6:_ZN9KComboBoxD2Ev
-libKF6Completion.so.6:_ZN9KLineEdit10completionERK7QString
-libKF6Completion.so.6:_ZN9KLineEdit10paintEventEP11QPaintEvent
-libKF6Completion.so.6:_ZN9KLineEdit10rotateTextEN15KCompletionBase14KeyBindingTypeE
-libKF6Completion.so.6:_ZN9KLineEdit11qt_metacallEN11QMetaObject4CallEiPPv
-libKF6Completion.so.6:_ZN9KLineEdit11qt_metacastEPKc
-libKF6Completion.so.6:_ZN9KLineEdit11resizeEventEP12QResizeEvent
-libKF6Completion.so.6:_ZN9KLineEdit11setReadOnlyEb
-libKF6Completion.so.6:_ZN9KLineEdit12doCompletionERK7QString
-libKF6Completion.so.6:_ZN9KLineEdit12textRotationEN15KCompletionBase14KeyBindingTypeE
-libKF6Completion.so.6:_ZN9KLineEdit13completionBoxEb
-libKF6Completion.so.6:_ZN9KLineEdit13keyPressEventEP9QKeyEvent
-libKF6Completion.so.6:_ZN9KLineEdit13userCancelledERK7QString
-libKF6Completion.so.6:_ZN9KLineEdit14makeCompletionERK7QString
-libKF6Completion.so.6:_ZN9KLineEdit15mousePressEventEP11QMouseEvent
-libKF6Completion.so.6:_ZN9KLineEdit15setSqueezedTextERK7QString
-libKF6Completion.so.6:_ZN9KLineEdit16contextMenuEventEP17QContextMenuEvent
-libKF6Completion.so.6:_ZN9KLineEdit16returnKeyPressedERK7QString
-libKF6Completion.so.6:_ZN9KLineEdit16setCompletedTextERK7QString
-libKF6Completion.so.6:_ZN9KLineEdit16setCompletedTextERK7QStringb
-libKF6Completion.so.6:_ZN9KLineEdit16setCompletionBoxEP14KCompletionBox
-libKF6Completion.so.6:_ZN9KLineEdit16setTrapReturnKeyEb
-libKF6Completion.so.6:_ZN9KLineEdit16setUserSelectionEb
-libKF6Completion.so.6:_ZN9KLineEdit17mouseReleaseEventEP11QMouseEvent
-libKF6Completion.so.6:_ZN9KLineEdit17setCompletedItemsERK5QListI7QStringEb
-libKF6Completion.so.6:_ZN9KLineEdit17setCompletionModeEN11KCompletion14CompletionModeE
-libKF6Completion.so.6:_ZN9KLineEdit18clearButtonClickedEv
-libKF6Completion.so.6:_ZN9KLineEdit19setCompletionObjectEP11KCompletionb
-libKF6Completion.so.6:_ZN9KLineEdit19substringCompletionERK7QString
-libKF6Completion.so.6:_ZN9KLineEdit21completionModeChangedEN11KCompletion14CompletionModeE
-libKF6Completion.so.6:_ZN9KLineEdit21mouseDoubleClickEventEP11QMouseEvent
-libKF6Completion.so.6:_ZN9KLineEdit22aboutToShowContextMenuEP5QMenu
-libKF6Completion.so.6:_ZN9KLineEdit22completionBoxActivatedERK7QString
-libKF6Completion.so.6:_ZN9KLineEdit22setSqueezedTextEnabledEb
-libKF6Completion.so.6:_ZN9KLineEdit25createStandardContextMenuEv
-libKF6Completion.so.6:_ZN9KLineEdit25setCompletionModeDisabledEN11KCompletion14CompletionModeEb
-libKF6Completion.so.6:_ZN9KLineEdit5eventEP6QEvent
-libKF6Completion.so.6:_ZN9KLineEdit6setUrlERK4QUrl
-libKF6Completion.so.6:_ZN9KLineEdit7setTextERK7QString
-libKF6Completion.so.6:_ZN9KLineEditC1EP7QWidget
-libKF6Completion.so.6:_ZN9KLineEditC1ERK7QStringP7QWidget
-libKF6Completion.so.6:_ZN9KLineEditC2EP7QWidget
-libKF6Completion.so.6:_ZN9KLineEditC2ERK7QStringP7QWidget
-libKF6Completion.so.6:_ZN9KLineEditD0Ev
-libKF6Completion.so.6:_ZN9KLineEditD1Ev
-libKF6Completion.so.6:_ZN9KLineEditD2Ev
-libKF6Completion.so.6:_ZNK11KCompletion10ignoreCaseEv
-libKF6Completion.so.6:_ZNK11KCompletion10metaObjectEv
-libKF6Completion.so.6:_ZNK11KCompletion13soundsEnabledEv
-libKF6Completion.so.6:_ZNK11KCompletion14completionModeEv
-libKF6Completion.so.6:_ZNK11KCompletion16postProcessMatchEP7QString
-libKF6Completion.so.6:_ZNK11KCompletion17shouldAutoSuggestEv
-libKF6Completion.so.6:_ZNK11KCompletion18hasMultipleMatchesEv
-libKF6Completion.so.6:_ZNK11KCompletion18postProcessMatchesEP18KCompletionMatches
-libKF6Completion.so.6:_ZNK11KCompletion18postProcessMatchesEP5QListI7QStringE
-libKF6Completion.so.6:_ZNK11KCompletion19substringCompletionERK7QString
-libKF6Completion.so.6:_ZNK11KCompletion5itemsEv
-libKF6Completion.so.6:_ZNK11KCompletion5orderEv
-libKF6Completion.so.6:_ZNK11KCompletion7isEmptyEv
-libKF6Completion.so.6:_ZNK11KCompletion9lastMatchEv
-libKF6Completion.so.6:_ZNK14KCompletionBox10metaObjectEv
-libKF6Completion.so.6:_ZNK14KCompletionBox13cancelledTextEv
-libKF6Completion.so.6:_ZNK14KCompletionBox13isTabHandlingEv
-libKF6Completion.so.6:_ZNK14KCompletionBox16activateOnSelectEv
-libKF6Completion.so.6:_ZNK14KCompletionBox17calculateGeometryEv
-libKF6Completion.so.6:_ZNK14KCompletionBox18globalPositionHintEv
-libKF6Completion.so.6:_ZNK14KCompletionBox5itemsEv
-libKF6Completion.so.6:_ZNK14KCompletionBox8sizeHintEv
-libKF6Completion.so.6:_ZNK15KCompletionBase10keyBindingENS_14KeyBindingTypeE
-libKF6Completion.so.6:_ZNK15KCompletionBase11emitSignalsEv
-libKF6Completion.so.6:_ZNK15KCompletionBase13handleSignalsEv
-libKF6Completion.so.6:_ZNK15KCompletionBase13keyBindingMapEv
-libKF6Completion.so.6:_ZNK15KCompletionBase14completionModeEv
-libKF6Completion.so.6:_ZNK15KCompletionBase29isCompletionObjectAutoDeletedEv
-libKF6Completion.so.6:_ZNK15KCompletionBase7compObjEv
-libKF6Completion.so.6:_ZNK15KCompletionBase8delegateEv
-libKF6Completion.so.6:_ZNK15KEmailValidator10metaObjectEv
-libKF6Completion.so.6:_ZNK15KEmailValidator5fixupER7QString
-libKF6Completion.so.6:_ZNK15KEmailValidator8validateER7QStringRi
-libKF6Completion.so.6:_ZNK16KHistoryComboBox10metaObjectEv
-libKF6Completion.so.6:_ZNK16KHistoryComboBox12historyItemsEv
-libKF6Completion.so.6:_ZNK16KHistoryComboBox13useCompletionEv
-libKF6Completion.so.6:_ZNK18KCompletionMatches4listEb
-libKF6Completion.so.6:_ZNK18KCompletionMatches7sortingEv
-libKF6Completion.so.6:_ZNK9KComboBox10metaObjectEv
-libKF6Completion.so.6:_ZNK9KComboBox11contextMenuEv
-libKF6Completion.so.6:_ZNK9KComboBox13trapReturnKeyEv
-libKF6Completion.so.6:_ZNK9KComboBox14autoCompletionEv
-libKF6Completion.so.6:_ZNK9KComboBox14cursorPositionEv
-libKF6Completion.so.6:_ZNK9KComboBox15minimumSizeHintEv
-libKF6Completion.so.6:_ZNK9KComboBox15urlDropsEnabledEv
-libKF6Completion.so.6:_ZNK9KComboBox8containsERK7QString
-libKF6Completion.so.6:_ZNK9KLineEdit10metaObjectEv
-libKF6Completion.so.6:_ZNK9KLineEdit11autoSuggestEv
-libKF6Completion.so.6:_ZNK9KLineEdit12originalTextEv
-libKF6Completion.so.6:_ZNK9KLineEdit13trapReturnKeyEv
-libKF6Completion.so.6:_ZNK9KLineEdit15urlDropsEnabledEv
-libKF6Completion.so.6:_ZNK9KLineEdit19clearButtonUsedSizeEv
-libKF6Completion.so.6:_ZNK9KLineEdit21isSqueezedTextEnabledEv
-libKF6Completion.so.6:_ZNK9KLineEdit4copyEv
-libKF6Completion.so.6:_ZNK9KLineEdit8userTextEv
-libKF6Completion.so.6:_ZThn16_N14KCompletionBoxD0Ev
-libKF6Completion.so.6:_ZThn16_N14KCompletionBoxD1Ev
-libKF6Completion.so.6:_ZThn16_N16KHistoryComboBoxD0Ev
-libKF6Completion.so.6:_ZThn16_N16KHistoryComboBoxD1Ev
-libKF6Completion.so.6:_ZThn16_N9KComboBoxD0Ev
-libKF6Completion.so.6:_ZThn16_N9KComboBoxD1Ev
-libKF6Completion.so.6:_ZThn16_N9KLineEditD0Ev
-libKF6Completion.so.6:_ZThn16_N9KLineEditD1Ev
-libKF6Completion.so.6:_ZThn40_N16KHistoryComboBoxD0Ev
-libKF6Completion.so.6:_ZThn40_N16KHistoryComboBoxD1Ev
-libKF6Completion.so.6:_ZThn40_N9KComboBox16setCompletedTextERK7QString
-libKF6Completion.so.6:_ZThn40_N9KComboBox17setCompletedItemsERK5QListI7QStringEb
-libKF6Completion.so.6:_ZThn40_N9KComboBoxD0Ev
-libKF6Completion.so.6:_ZThn40_N9KComboBoxD1Ev
-libKF6Completion.so.6:_ZThn40_N9KLineEdit16setCompletedTextERK7QString
-libKF6Completion.so.6:_ZThn40_N9KLineEdit17setCompletedItemsERK5QListI7QStringEb
-libKF6Completion.so.6:_ZThn40_N9KLineEdit17setCompletionModeEN11KCompletion14CompletionModeE
-libKF6Completion.so.6:_ZThn40_N9KLineEdit19setCompletionObjectEP11KCompletionb
-libKF6Completion.so.6:_ZThn40_N9KLineEditD0Ev
-libKF6Completion.so.6:_ZThn40_N9KLineEditD1Ev
+libKF6Completion.so.6:KCompletion::allMatches(QString const&)
+libKF6Completion.so.6:KCompletion::allMatches()
+libKF6Completion.so.6:KCompletion::removeItem(QString const&)
+libKF6Completion.so.6:KCompletion::insertItems(QList<QString> const&)
+libKF6Completion.so.6:KCompletion::qt_metacall(QMetaObject::Call, int, void**)
+libKF6Completion.so.6:KCompletion::qt_metacast(char const*)
+libKF6Completion.so.6:KCompletion::previousMatch()
+libKF6Completion.so.6:KCompletion::setIgnoreCase(bool)
+libKF6Completion.so.6:KCompletion::makeCompletion(QString const&)
+libKF6Completion.so.6:KCompletion::multipleMatches()
+libKF6Completion.so.6:KCompletion::setSoundsEnabled(bool)
+libKF6Completion.so.6:KCompletion::setCompletionMode(KCompletion::CompletionMode)
+libKF6Completion.so.6:KCompletion::setSorterFunction(std::function<void (QList<QString>&)>)
+libKF6Completion.so.6:KCompletion::allWeightedMatches(QString const&)
+libKF6Completion.so.6:KCompletion::allWeightedMatches()
+libKF6Completion.so.6:KCompletion::setShouldAutoSuggest(bool)
+libKF6Completion.so.6:KCompletion::clear()
+libKF6Completion.so.6:KCompletion::match(QString const&)
+libKF6Completion.so.6:KCompletion::addItem(QString const&)
+libKF6Completion.so.6:KCompletion::addItem(QString const&, unsigned int)
+libKF6Completion.so.6:KCompletion::matches(QList<QString> const&)
+libKF6Completion.so.6:KCompletion::setItems(QList<QString> const&)
+libKF6Completion.so.6:KCompletion::setOrder(KCompletion::CompOrder)
+libKF6Completion.so.6:KCompletion::nextMatch()
+libKF6Completion.so.6:KCompletion::KCompletion()
+libKF6Completion.so.6:KCompletion::KCompletion()
+libKF6Completion.so.6:KCompletion::~KCompletion()
+libKF6Completion.so.6:KCompletion::~KCompletion()
+libKF6Completion.so.6:KCompletion::~KCompletion()
+libKF6Completion.so.6:KCompletionBox::setVisible(bool)
+libKF6Completion.so.6:KCompletionBox::eventFilter(QObject*, QEvent*)
+libKF6Completion.so.6:KCompletionBox::insertItems(QList<QString> const&, int)
+libKF6Completion.so.6:KCompletionBox::qt_metacall(QMetaObject::Call, int, void**)
+libKF6Completion.so.6:KCompletionBox::qt_metacast(char const*)
+libKF6Completion.so.6:KCompletionBox::slotActivated(QListWidgetItem*)
+libKF6Completion.so.6:KCompletionBox::textActivated(QString const&)
+libKF6Completion.so.6:KCompletionBox::userCancelled(QString const&)
+libKF6Completion.so.6:KCompletionBox::setTabHandling(bool)
+libKF6Completion.so.6:KCompletionBox::setCancelledText(QString const&)
+libKF6Completion.so.6:KCompletionBox::resizeAndReposition()
+libKF6Completion.so.6:KCompletionBox::setActivateOnSelect(bool)
+libKF6Completion.so.6:KCompletionBox::up()
+libKF6Completion.so.6:KCompletionBox::end()
+libKF6Completion.so.6:KCompletionBox::down()
+libKF6Completion.so.6:KCompletionBox::home()
+libKF6Completion.so.6:KCompletionBox::popup()
+libKF6Completion.so.6:KCompletionBox::pageUp()
+libKF6Completion.so.6:KCompletionBox::pageDown()
+libKF6Completion.so.6:KCompletionBox::setItems(QList<QString> const&)
+libKF6Completion.so.6:KCompletionBox::KCompletionBox(QWidget*)
+libKF6Completion.so.6:KCompletionBox::KCompletionBox(QWidget*)
+libKF6Completion.so.6:KCompletionBox::~KCompletionBox()
+libKF6Completion.so.6:KCompletionBox::~KCompletionBox()
+libKF6Completion.so.6:KCompletionBox::~KCompletionBox()
+libKF6Completion.so.6:KCompletionBase::setDelegate(KCompletionBase*)
+libKF6Completion.so.6:KCompletionBase::virtual_hook(int, void*)
+libKF6Completion.so.6:KCompletionBase::setKeyBinding(KCompletionBase::KeyBindingType, QList<QKeySequence> const&)
+libKF6Completion.so.6:KCompletionBase::setEmitSignals(bool)
+libKF6Completion.so.6:KCompletionBase::completionObject(bool)
+libKF6Completion.so.6:KCompletionBase::setEnableSignals(bool)
+libKF6Completion.so.6:KCompletionBase::setHandleSignals(bool)
+libKF6Completion.so.6:KCompletionBase::setKeyBindingMap(QMap<KCompletionBase::KeyBindingType, QList<QKeySequence> >)
+libKF6Completion.so.6:KCompletionBase::setCompletionMode(KCompletion::CompletionMode)
+libKF6Completion.so.6:KCompletionBase::setCompletionObject(KCompletion*, bool)
+libKF6Completion.so.6:KCompletionBase::useGlobalKeyBindings()
+libKF6Completion.so.6:KCompletionBase::setAutoDeleteCompletionObject(bool)
+libKF6Completion.so.6:KCompletionBase::KCompletionBase()
+libKF6Completion.so.6:KCompletionBase::KCompletionBase()
+libKF6Completion.so.6:KCompletionBase::~KCompletionBase()
+libKF6Completion.so.6:KCompletionBase::~KCompletionBase()
+libKF6Completion.so.6:KCompletionBase::~KCompletionBase()
+libKF6Completion.so.6:KEmailValidator::qt_metacall(QMetaObject::Call, int, void**)
+libKF6Completion.so.6:KEmailValidator::qt_metacast(char const*)
+libKF6Completion.so.6:KEmailValidator::KEmailValidator(QObject*)
+libKF6Completion.so.6:KEmailValidator::KEmailValidator(QObject*)
+libKF6Completion.so.6:KEmailValidator::~KEmailValidator()
+libKF6Completion.so.6:KEmailValidator::~KEmailValidator()
+libKF6Completion.so.6:KEmailValidator::~KEmailValidator()
+libKF6Completion.so.6:KHistoryComboBox::wheelEvent(QWheelEvent*)
+libKF6Completion.so.6:KHistoryComboBox::insertItems(QList<QString> const&)
+libKF6Completion.so.6:KHistoryComboBox::qt_metacall(QMetaObject::Call, int, void**)
+libKF6Completion.so.6:KHistoryComboBox::qt_metacast(char const*)
+libKF6Completion.so.6:KHistoryComboBox::addToHistory(QString const&)
+libKF6Completion.so.6:KHistoryComboBox::clearHistory()
+libKF6Completion.so.6:KHistoryComboBox::keyPressEvent(QKeyEvent*)
+libKF6Completion.so.6:KHistoryComboBox::setHistoryItems(QList<QString> const&)
+libKF6Completion.so.6:KHistoryComboBox::setHistoryItems(QList<QString> const&, bool)
+libKF6Completion.so.6:KHistoryComboBox::setIconProvider(std::function<QIcon (QString const&)>)
+libKF6Completion.so.6:KHistoryComboBox::removeFromHistory(QString const&)
+libKF6Completion.so.6:KHistoryComboBox::reset()
+libKF6Completion.so.6:KHistoryComboBox::cleared()
+libKF6Completion.so.6:KHistoryComboBox::KHistoryComboBox(QWidget*)
+libKF6Completion.so.6:KHistoryComboBox::KHistoryComboBox(bool, QWidget*)
+libKF6Completion.so.6:KHistoryComboBox::KHistoryComboBox(QWidget*)
+libKF6Completion.so.6:KHistoryComboBox::KHistoryComboBox(bool, QWidget*)
+libKF6Completion.so.6:KHistoryComboBox::~KHistoryComboBox()
+libKF6Completion.so.6:KHistoryComboBox::~KHistoryComboBox()
+libKF6Completion.so.6:KHistoryComboBox::~KHistoryComboBox()
+libKF6Completion.so.6:KCompletionMatches::removeDuplicates()
+libKF6Completion.so.6:KCompletionMatches::KCompletionMatches(KCompletionMatchesWrapper const&)
+libKF6Completion.so.6:KCompletionMatches::KCompletionMatches(KCompletionMatches const&)
+libKF6Completion.so.6:KCompletionMatches::KCompletionMatches(bool)
+libKF6Completion.so.6:KCompletionMatches::KCompletionMatches(KCompletionMatchesWrapper const&)
+libKF6Completion.so.6:KCompletionMatches::KCompletionMatches(KCompletionMatches const&)
+libKF6Completion.so.6:KCompletionMatches::KCompletionMatches(bool)
+libKF6Completion.so.6:KCompletionMatches::~KCompletionMatches()
+libKF6Completion.so.6:KCompletionMatches::~KCompletionMatches()
+libKF6Completion.so.6:KCompletionMatches::operator=(KCompletionMatches const&)
+libKF6Completion.so.6:KComboBox::completion(QString const&)
+libKF6Completion.so.6:KComboBox::rotateText(KCompletionBase::KeyBindingType)
+libKF6Completion.so.6:KComboBox::setEditUrl(QUrl const&)
+libKF6Completion.so.6:KComboBox::qt_metacall(QMetaObject::Call, int, void**)
+libKF6Completion.so.6:KComboBox::qt_metacast(char const*)
+libKF6Completion.so.6:KComboBox::setEditable(bool)
+libKF6Completion.so.6:KComboBox::setLineEdit(QLineEdit*)
+libKF6Completion.so.6:KComboBox::textRotation(KCompletionBase::KeyBindingType)
+libKF6Completion.so.6:KComboBox::completionBox(bool)
+libKF6Completion.so.6:KComboBox::returnPressed(QString const&)
+libKF6Completion.so.6:KComboBox::makeCompletion(QString const&)
+libKF6Completion.so.6:KComboBox::setCurrentItem(QString const&, bool, int)
+libKF6Completion.so.6:KComboBox::setCompletedText(QString const&)
+libKF6Completion.so.6:KComboBox::setCompletedText(QString const&, bool)
+libKF6Completion.so.6:KComboBox::setTrapReturnKey(bool)
+libKF6Completion.so.6:KComboBox::setAutoCompletion(bool)
+libKF6Completion.so.6:KComboBox::setCompletedItems(QList<QString> const&, bool)
+libKF6Completion.so.6:KComboBox::substringCompletion(QString const&)
+libKF6Completion.so.6:KComboBox::completionModeChanged(KCompletion::CompletionMode)
+libKF6Completion.so.6:KComboBox::aboutToShowContextMenu(QMenu*)
+libKF6Completion.so.6:KComboBox::addUrl(QUrl const&)
+libKF6Completion.so.6:KComboBox::addUrl(QIcon const&, QUrl const&)
+libKF6Completion.so.6:KComboBox::changeUrl(int, QUrl const&)
+libKF6Completion.so.6:KComboBox::changeUrl(int, QIcon const&, QUrl const&)
+libKF6Completion.so.6:KComboBox::insertUrl(int, QUrl const&)
+libKF6Completion.so.6:KComboBox::insertUrl(int, QIcon const&, QUrl const&)
+libKF6Completion.so.6:KComboBox::KComboBox(QWidget*)
+libKF6Completion.so.6:KComboBox::KComboBox(bool, QWidget*)
+libKF6Completion.so.6:KComboBox::KComboBox(QWidget*)
+libKF6Completion.so.6:KComboBox::KComboBox(bool, QWidget*)
+libKF6Completion.so.6:KComboBox::~KComboBox()
+libKF6Completion.so.6:KComboBox::~KComboBox()
+libKF6Completion.so.6:KComboBox::~KComboBox()
+libKF6Completion.so.6:KLineEdit::completion(QString const&)
+libKF6Completion.so.6:KLineEdit::paintEvent(QPaintEvent*)
+libKF6Completion.so.6:KLineEdit::rotateText(KCompletionBase::KeyBindingType)
+libKF6Completion.so.6:KLineEdit::qt_metacall(QMetaObject::Call, int, void**)
+libKF6Completion.so.6:KLineEdit::qt_metacast(char const*)
+libKF6Completion.so.6:KLineEdit::resizeEvent(QResizeEvent*)
+libKF6Completion.so.6:KLineEdit::setReadOnly(bool)
+libKF6Completion.so.6:KLineEdit::doCompletion(QString const&)
+libKF6Completion.so.6:KLineEdit::textRotation(KCompletionBase::KeyBindingType)
+libKF6Completion.so.6:KLineEdit::completionBox(bool)
+libKF6Completion.so.6:KLineEdit::keyPressEvent(QKeyEvent*)
+libKF6Completion.so.6:KLineEdit::userCancelled(QString const&)
+libKF6Completion.so.6:KLineEdit::makeCompletion(QString const&)
+libKF6Completion.so.6:KLineEdit::mousePressEvent(QMouseEvent*)
+libKF6Completion.so.6:KLineEdit::setSqueezedText(QString const&)
+libKF6Completion.so.6:KLineEdit::contextMenuEvent(QContextMenuEvent*)
+libKF6Completion.so.6:KLineEdit::returnKeyPressed(QString const&)
+libKF6Completion.so.6:KLineEdit::setCompletedText(QString const&)
+libKF6Completion.so.6:KLineEdit::setCompletedText(QString const&, bool)
+libKF6Completion.so.6:KLineEdit::setCompletionBox(KCompletionBox*)
+libKF6Completion.so.6:KLineEdit::setTrapReturnKey(bool)
+libKF6Completion.so.6:KLineEdit::setUserSelection(bool)
+libKF6Completion.so.6:KLineEdit::mouseReleaseEvent(QMouseEvent*)
+libKF6Completion.so.6:KLineEdit::setCompletedItems(QList<QString> const&, bool)
+libKF6Completion.so.6:KLineEdit::setCompletionMode(KCompletion::CompletionMode)
+libKF6Completion.so.6:KLineEdit::clearButtonClicked()
+libKF6Completion.so.6:KLineEdit::setCompletionObject(KCompletion*, bool)
+libKF6Completion.so.6:KLineEdit::substringCompletion(QString const&)
+libKF6Completion.so.6:KLineEdit::completionModeChanged(KCompletion::CompletionMode)
+libKF6Completion.so.6:KLineEdit::mouseDoubleClickEvent(QMouseEvent*)
+libKF6Completion.so.6:KLineEdit::aboutToShowContextMenu(QMenu*)
+libKF6Completion.so.6:KLineEdit::completionBoxActivated(QString const&)
+libKF6Completion.so.6:KLineEdit::setSqueezedTextEnabled(bool)
+libKF6Completion.so.6:KLineEdit::createStandardContextMenu()
+libKF6Completion.so.6:KLineEdit::setCompletionModeDisabled(KCompletion::CompletionMode, bool)
+libKF6Completion.so.6:KLineEdit::event(QEvent*)
+libKF6Completion.so.6:KLineEdit::setUrl(QUrl const&)
+libKF6Completion.so.6:KLineEdit::setText(QString const&)
+libKF6Completion.so.6:KLineEdit::KLineEdit(QWidget*)
+libKF6Completion.so.6:KLineEdit::KLineEdit(QString const&, QWidget*)
+libKF6Completion.so.6:KLineEdit::KLineEdit(QWidget*)
+libKF6Completion.so.6:KLineEdit::KLineEdit(QString const&, QWidget*)
+libKF6Completion.so.6:KLineEdit::~KLineEdit()
+libKF6Completion.so.6:KLineEdit::~KLineEdit()
+libKF6Completion.so.6:KLineEdit::~KLineEdit()
+libKF6Completion.so.6:KCompletion::ignoreCase() const
+libKF6Completion.so.6:KCompletion::metaObject() const
+libKF6Completion.so.6:KCompletion::soundsEnabled() const
+libKF6Completion.so.6:KCompletion::completionMode() const
+libKF6Completion.so.6:KCompletion::postProcessMatch(QString*) const
+libKF6Completion.so.6:KCompletion::shouldAutoSuggest() const
+libKF6Completion.so.6:KCompletion::hasMultipleMatches() const
+libKF6Completion.so.6:KCompletion::postProcessMatches(KCompletionMatches*) const
+libKF6Completion.so.6:KCompletion::postProcessMatches(QList<QString>*) const
+libKF6Completion.so.6:KCompletion::substringCompletion(QString const&) const
+libKF6Completion.so.6:KCompletion::items() const
+libKF6Completion.so.6:KCompletion::order() const
+libKF6Completion.so.6:KCompletion::isEmpty() const
+libKF6Completion.so.6:KCompletion::lastMatch() const
+libKF6Completion.so.6:KCompletionBox::metaObject() const
+libKF6Completion.so.6:KCompletionBox::cancelledText() const
+libKF6Completion.so.6:KCompletionBox::isTabHandling() const
+libKF6Completion.so.6:KCompletionBox::activateOnSelect() const
+libKF6Completion.so.6:KCompletionBox::calculateGeometry() const
+libKF6Completion.so.6:KCompletionBox::globalPositionHint() const
+libKF6Completion.so.6:KCompletionBox::items() const
+libKF6Completion.so.6:KCompletionBox::sizeHint() const
+libKF6Completion.so.6:KCompletionBase::keyBinding(KCompletionBase::KeyBindingType) const
+libKF6Completion.so.6:KCompletionBase::emitSignals() const
+libKF6Completion.so.6:KCompletionBase::handleSignals() const
+libKF6Completion.so.6:KCompletionBase::keyBindingMap() const
+libKF6Completion.so.6:KCompletionBase::completionMode() const
+libKF6Completion.so.6:KCompletionBase::isCompletionObjectAutoDeleted() const
+libKF6Completion.so.6:KCompletionBase::compObj() const
+libKF6Completion.so.6:KCompletionBase::delegate() const
+libKF6Completion.so.6:KEmailValidator::metaObject() const
+libKF6Completion.so.6:KEmailValidator::fixup(QString&) const
+libKF6Completion.so.6:KEmailValidator::validate(QString&, int&) const
+libKF6Completion.so.6:KHistoryComboBox::metaObject() const
+libKF6Completion.so.6:KHistoryComboBox::historyItems() const
+libKF6Completion.so.6:KHistoryComboBox::useCompletion() const
+libKF6Completion.so.6:KCompletionMatches::list(bool) const
+libKF6Completion.so.6:KCompletionMatches::sorting() const
+libKF6Completion.so.6:KComboBox::metaObject() const
+libKF6Completion.so.6:KComboBox::contextMenu() const
+libKF6Completion.so.6:KComboBox::trapReturnKey() const
+libKF6Completion.so.6:KComboBox::autoCompletion() const
+libKF6Completion.so.6:KComboBox::cursorPosition() const
+libKF6Completion.so.6:KComboBox::minimumSizeHint() const
+libKF6Completion.so.6:KComboBox::urlDropsEnabled() const
+libKF6Completion.so.6:KComboBox::contains(QString const&) const
+libKF6Completion.so.6:KLineEdit::metaObject() const
+libKF6Completion.so.6:KLineEdit::autoSuggest() const
+libKF6Completion.so.6:KLineEdit::originalText() const
+libKF6Completion.so.6:KLineEdit::trapReturnKey() const
+libKF6Completion.so.6:KLineEdit::urlDropsEnabled() const
+libKF6Completion.so.6:KLineEdit::clearButtonUsedSize() const
+libKF6Completion.so.6:KLineEdit::isSqueezedTextEnabled() const
+libKF6Completion.so.6:KLineEdit::copy() const
+libKF6Completion.so.6:KLineEdit::userText() const
+libKF6Completion.so.6:non-virtual thunk to KCompletionBox::~KCompletionBox()
+libKF6Completion.so.6:non-virtual thunk to KCompletionBox::~KCompletionBox()
+libKF6Completion.so.6:non-virtual thunk to KHistoryComboBox::~KHistoryComboBox()
+libKF6Completion.so.6:non-virtual thunk to KHistoryComboBox::~KHistoryComboBox()
+libKF6Completion.so.6:non-virtual thunk to KComboBox::~KComboBox()
+libKF6Completion.so.6:non-virtual thunk to KComboBox::~KComboBox()
+libKF6Completion.so.6:non-virtual thunk to KLineEdit::~KLineEdit()
+libKF6Completion.so.6:non-virtual thunk to KLineEdit::~KLineEdit()
+libKF6Completion.so.6:non-virtual thunk to KHistoryComboBox::~KHistoryComboBox()
+libKF6Completion.so.6:non-virtual thunk to KHistoryComboBox::~KHistoryComboBox()
+libKF6Completion.so.6:non-virtual thunk to KComboBox::setCompletedText(QString const&)
+libKF6Completion.so.6:non-virtual thunk to KComboBox::setCompletedItems(QList<QString> const&, bool)
+libKF6Completion.so.6:non-virtual thunk to KComboBox::~KComboBox()
+libKF6Completion.so.6:non-virtual thunk to KComboBox::~KComboBox()
+libKF6Completion.so.6:non-virtual thunk to KLineEdit::setCompletedText(QString const&)
+libKF6Completion.so.6:non-virtual thunk to KLineEdit::setCompletedItems(QList<QString> const&, bool)
+libKF6Completion.so.6:non-virtual thunk to KLineEdit::setCompletionMode(KCompletion::CompletionMode)
+libKF6Completion.so.6:non-virtual thunk to KLineEdit::setCompletionObject(KCompletion*, bool)
+libKF6Completion.so.6:non-virtual thunk to KLineEdit::~KLineEdit()
+libKF6Completion.so.6:non-virtual thunk to KLineEdit::~KLineEdit()
